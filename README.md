@@ -3,6 +3,8 @@
 ## **Overview**
 This project is to replicate and build upon the GPT-1 architecture, following the guidance of [Andrej Karpathy's YouTube series](https://www.youtube.com/user/karpathy). The goal is to develop and fine-tune a basic large language model (LLM) on a chosen dataset while balancing computational efficiency and output quality through iterative improvements.
 
+This was done for the IS 640 Python Group Project
+
 ## **Project Objectives**
 1. Understand and implement key components of transformer architecture:
    - Self-attention
